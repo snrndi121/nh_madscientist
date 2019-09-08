@@ -1,6 +1,8 @@
 # nh_madscientist
 - 팀 이름 : MadScientists    
-- 팀원 : 오승환, 권성욱, 장소연   
+- 팀원 : 오승환, 권성욱, 장소연    
+- 주제 : 하나로 마트 품질 관리   
+- 결과 : 장려 수상   
 
 # reference   
 (1) python color extraction to pie-chart   
